@@ -1,3 +1,3 @@
-for i in range(5):
-    print("* " * 5)
-
+import numpy as np
+name=input("Introdu numele")
+print(name)
